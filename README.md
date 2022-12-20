@@ -1,5 +1,5 @@
 ---
-title: 2st 프로젝트 We Eats
+title: 2nd 프로젝트 We Eats
 date: 2022.05.09
 ---
 
